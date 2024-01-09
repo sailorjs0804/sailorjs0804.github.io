@@ -1,7 +1,6 @@
 # Site settings
-title: Sailorjs Blog
-SEOTitle: sailorjs的博客 | sailorjs Blog
-# header-img: img/home-bg.jpg
+title: SailorJS Blog
+SEOTitle: sailorjs的博客
 email: sailorjs0804@gmail.com
 description: "这是描述"
 keyword: "https://sailorjs0804.github.io"
@@ -54,7 +53,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: sailorjs
 
 # Netease settings
 netease_comment: false
@@ -82,5 +81,3 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-
-# Friends
