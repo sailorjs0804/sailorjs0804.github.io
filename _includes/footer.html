@@ -154,13 +154,7 @@
 {% unless page.no-catalog %}
 <script type="text/javascript">
     function generateCatalog(selector) {
-
-        // interop with multilangual 
-        if ('{{ page.multilingual }}' == 'true') {
-            _containerSelector = 'div.post-container.active'
-        } else {
-            _containerSelector = 'div.post-container'
-        }
+        _containerSelector = 'div.post-container'
 
         // init
         var P = $(_containerSelector), a, n, t, l, i, c;
