@@ -1,2 +1,2 @@
-# sailorjs0804.github.io
+# sailorjs
 个人博客
