@@ -1,9 +1,9 @@
 # Site settings
 title: Sailorjs Blog
 SEOTitle: sailorjs的博客 | sailorjs Blog
-header-img: img/home-bg.jpg
+# header-img: img/home-bg.jpg
 email: sailorjs0804@gmail.com
-description: "描述"
+description: "这是描述"
 keyword: "https://sailorjs0804.github.io"
 # url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,12 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Sailor丶JS
-#zhihu_username: Sailor丶JS
 github_username: sailorjs0804
-#twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -75,7 +70,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "个人描述"
-# sidebar-avatar: 
+sidebar-avatar: img/avatar.jpg
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
