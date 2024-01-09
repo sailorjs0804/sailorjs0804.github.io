@@ -2,13 +2,9 @@
   <hr>
   <h5><a href="{{'/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
   <div class="short-about">
-    {% if site.sidebar-avatar %}
-    <img src="{{site.sidebar-avatar}}" />
-    {% endif %}
+    <img src="img/avatar.jpg" />
     {% if site.sidebar-about-description %}
     <p>{{site.sidebar-about-description}}</p>
     {% endif %}
-    <!-- SNS Link -->
-    {% include sns-links.html %}
   </div>
 </section>
