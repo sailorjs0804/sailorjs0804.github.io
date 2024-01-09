@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sailorjs0804.
+- 👋 Hi, I’m @Cty.
 - 👀 I’m interested in LLM,AI.
-- 🌱 I’m currently interning in Initi:AI company.
+- 🏬 I’m currently interning in Initi:AI company.
 - 📚 My paper is about connection between blockchain and federated-learning
+- 👫🏻 @Hcw
